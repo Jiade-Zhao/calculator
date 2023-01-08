@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
 A calculator made using rust egui.
 
